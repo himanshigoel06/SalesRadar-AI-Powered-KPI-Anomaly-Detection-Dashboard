@@ -235,6 +235,12 @@ CALCULATE(
 
 ---
 
+# 📥 Download Dataset
+
+You can download the dataset used in this project from the link below:
+
+[Download Airbnb Dataset](https://mavenanalytics.io/data-playground/airbnb-listings-reviews)
+
 # 👩‍💻 Author
 
 ## Himanshi Goel
